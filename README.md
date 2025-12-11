@@ -3,6 +3,8 @@
 ![Project Status](https://img.shields.io/badge/status-active-success.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+Live - Link : https://captcha-generator.wasmer.app/
+
 A sleek, modern security verification interface built with vanilla JavaScript. This project features a **Glassmorphism UI**, dynamic background animations, and real-time validation logic, moving away from boring, static web forms.
 
 ## 🚀 Key Features
