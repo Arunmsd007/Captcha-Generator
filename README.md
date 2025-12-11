@@ -5,12 +5,6 @@
 
 A sleek, modern security verification interface built with vanilla JavaScript. This project features a **Glassmorphism UI**, dynamic background animations, and real-time validation logic, moving away from boring, static web forms.
 
-<p align="center">
-  <img src="assets/preview.png" alt="Project Screenshot" width="600">
-  <br>
-  <em>(Replace 'assets/preview.png' with a screenshot of your actual project)</em>
-</p>
-
 ## 🚀 Key Features
 
 * **🎨 Modern UI/UX:** Built using the **Glassmorphism** design trend (frosted glass effect) with `backdrop-filter`.
